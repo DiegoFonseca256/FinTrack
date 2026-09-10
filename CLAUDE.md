@@ -134,7 +134,7 @@ O projeto está dividido em ~50 tarefas no board **FinTrack** no Trello. As tare
 - [x] S1.1 — Criar repositório "fintrack" no GitHub
 - [x] S1.2 — Definir estrutura de pastas (/web e /api)
 - [x] S1.3 — Configurar TypeScript no back-end
-- [ ] S1.4 — Configurar ESLint e Prettier no back-end
+- [x] S1.4 — Configurar ESLint e Prettier no back-end
 - [ ] S1.5 — Criar docker-compose.yml com PostgreSQL local
 - [ ] S1.6 — Instalar e configurar Prisma
 - [ ] S1.7 — Modelar entidades User, Category, Transaction e Goal no Prisma
