@@ -131,8 +131,8 @@ Goal
 O projeto está dividido em ~50 tarefas no board **FinTrack** no Trello. As tarefas seguem o padrão `[SX.Y]` — onde X é a semana (1, 2 ou 3) e Y é o número da tarefa.
 
 ### Semana 1 — Back-end e Banco de Dados
-- [ ] S1.1 — Criar repositório "fintrack" no GitHub
-- [ ] S1.2 — Definir estrutura de pastas (/web e /api)
+- [x] S1.1 — Criar repositório "fintrack" no GitHub
+- [x] S1.2 — Definir estrutura de pastas (/web e /api)
 - [ ] S1.3 — Configurar TypeScript no back-end
 - [ ] S1.4 — Configurar ESLint e Prettier no back-end
 - [ ] S1.5 — Criar docker-compose.yml com PostgreSQL local
