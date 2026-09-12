@@ -1,12 +1,6 @@
-import express from "express";
+import { app } from "./app";
+import { env } from "./lib/env";
 
-const app = express();
-const PORT = process.env.PORT || 3333;
-
-app.get("/health", (_req, res) => {
-  res.json({ status: "ok" });
-});
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+app.listen(env.PORT, () => {
+  console.log(`✅ Server running on port ${env.PORT}`);
 });

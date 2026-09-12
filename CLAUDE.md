@@ -139,7 +139,7 @@ O projeto está dividido em ~50 tarefas no board **FinTrack** no Trello. As tare
 - [x] S1.6 — Instalar e configurar Prisma
 - [x] S1.7 — Modelar entidades User, Category, Transaction e Goal no Prisma
 - [ ] S1.8 — Rodar primeira migration e validar tabelas
-- [ ] S1.9 — Configurar servidor Express e variáveis de ambiente
+- [x] S1.9 — Configurar servidor Express e variáveis de ambiente
 - [ ] S1.10 — Implementar rota POST /auth/register com hash bcrypt
 - [ ] S1.11 — Implementar rota POST /auth/login com JWT
 - [ ] S1.12 — Criar middleware de autenticação JWT
