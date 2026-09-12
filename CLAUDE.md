@@ -136,8 +136,8 @@ O projeto está dividido em ~50 tarefas no board **FinTrack** no Trello. As tare
 - [x] S1.3 — Configurar TypeScript no back-end
 - [x] S1.4 — Configurar ESLint e Prettier no back-end
 - [x] S1.5 — Criar docker-compose.yml com PostgreSQL local
-- [ ] S1.6 — Instalar e configurar Prisma
-- [ ] S1.7 — Modelar entidades User, Category, Transaction e Goal no Prisma
+- [x] S1.6 — Instalar e configurar Prisma
+- [x] S1.7 — Modelar entidades User, Category, Transaction e Goal no Prisma
 - [ ] S1.8 — Rodar primeira migration e validar tabelas
 - [ ] S1.9 — Configurar servidor Express e variáveis de ambiente
 - [ ] S1.10 — Implementar rota POST /auth/register com hash bcrypt
